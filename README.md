@@ -1,5 +1,6 @@
 [My new Resume.pdf](https://github.com/Aamrutraibagi/TaskRepo/files/11300323/My.new.Resume.pdf)
-# Resume
+#         Hi 👋, I'm Amrut Raibagi
+ Automation Tester
 
 🔭 I’m currently working on Selenium with java Automation Testing 
 
