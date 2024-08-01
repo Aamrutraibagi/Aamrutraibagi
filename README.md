@@ -6,11 +6,11 @@
 
 🔭 I’m currently working on Selenium with java Automation Testing 
 
-🌱 I’m currently learning Karate API Automation
+🌱 I’m currently learning Test Data Driven Framework Automation
 
 👯 I’m looking to collaborate on API Testing, Selenium, Automation Frameworks
 
-💬 Ask me about Selenium, Core Java, Manual Testing, SQL, TestNG, Maven, Git, Shell Scripting
+💬 Ask me about Selenium, Core Java, Manual Testing, SQL, TestNG, Maven, Git, API
 
 📫 How to reach me amrutraibagi2018@gmail.com
 
