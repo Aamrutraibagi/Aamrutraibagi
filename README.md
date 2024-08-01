@@ -1,4 +1,4 @@
-[My new Resume.pdf](https://github.com/Aamrutraibagi/TaskRepo/files/11300323/My.new.Resume.pdf)
+[Click Here To Download Resume](https://github.com/Aamrutraibagi/TaskRepo/files/11300323/My.new.Resume.pdf)
 # Resume
 
 # Profile
