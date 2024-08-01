@@ -1,7 +1,9 @@
-[Click To Download The Resume](https://github.com/Aamrutraibagi/TaskRepo/files/11300323/My.new.Resume.pdf)
+[Amrut Raibagi_2.3 years _Tester.pdf](https://github.com/user-attachments/files/16452218/Amrut.Raibagi_2.3.years._Tester.pdf.pdf)
+
 #         Hi 👋, I'm Amrut Raibagi
                  Automation Tester
                  
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
