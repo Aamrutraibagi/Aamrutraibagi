@@ -1,4 +1,4 @@
-[My new Resume.pdf](https://github.com/Aamrutraibagi/TaskRepo/files/11300323/My.new.Resume.pdf)
+[Click To Download The Resume](https://github.com/Aamrutraibagi/TaskRepo/files/11300323/My.new.Resume.pdf)
 #         Hi 👋, I'm Amrut Raibagi
                  Automation Tester
                  
